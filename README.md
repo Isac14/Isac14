@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isac14&color=green" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Frontend
-- 🌱 Atualmente aprendendo React, NodeJs e Bootstrap
+- 🌱 Atualmente aprendendo **React, NodeJs e Bootstrap**
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS**
 - ⚡ Fun fact: **Nos Estados Unidos, H2O não significa água, e sim water**
 
