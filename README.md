@@ -8,7 +8,6 @@
 - 🔥 Desenvolvedor Frontend
 - 🌱 Atualmente aprendendo **React, NodeJs e Bootstrap**
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS**
-- ⚡ Fun fact: **Nos Estados Unidos, H2O não significa água, e sim water**
 
 
 ## Contact
