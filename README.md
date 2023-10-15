@@ -1,5 +1,4 @@
-
-<img align='right' height='500em' src='https://raw.githubusercontent.com/gist/Isac14/b100d1d9f3a5aed7446eaeb4f6f2474f/raw/28bb406357c702c7cac893844e89a42af0c385cc/githubcard.svg'>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <h1 align="left">Olá, eu sou o Isac👋🏻</h1>
 
@@ -9,19 +8,10 @@
 - 🌱 Atualmente aprendendo **React, NodeJs e Bootstrap**
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS**
 
-
-## Contact
-<p align="left" style="background:yellow">
-
-<a href="https://linkedin.com/in/isac-mamede" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Isac Mamede-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://www.linkedin.com/in/isac-mamede/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isac-mamede/" />
 </a>
-<a href="https://instagram.com/m.isac14" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-m.isac14-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://www.instagram.com/m.isac14/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/m.isac14/"/>
 </a>
 </p>
-
-<br>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
