@@ -2,6 +2,8 @@
 
 <h1 align="left">Olá, eu sou o Isac👋🏻</h1>
 
+<h5>Apaixonado por tecnologia e tentando manter os commits em dia!!!</h5>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isac14&color=green" alt="Profile views" /> </p>
 
 - 🔥 Desenvolvedor Frontend
