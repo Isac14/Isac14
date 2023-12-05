@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Isac14&color=green" alt="Profile views" /> </p>
 
-- 🔥 Desenvolvedor Frontend
-- 🌱 Atualmente aprendendo **React, NodeJs e Bootstrap**
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS**
+- 🔥 Desenvolvedor Mobile e Frontend
+- 🌱 Atualmente aprendendo **NodeJs**
+- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, Bootstrap, React e React Native**
 
 <a href="https://www.linkedin.com/in/isac-mamede/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isac-mamede/" />
